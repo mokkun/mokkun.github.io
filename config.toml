@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://mokkun.github.io'
 languageCode = 'en-us'
 title = "Mokkun's Excellent Adventure"
 theme = 'hugo-bearblog'
